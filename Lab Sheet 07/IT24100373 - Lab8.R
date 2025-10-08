@@ -16,4 +16,5 @@ res
 # Extract specific values
 res$statistic  
 res$p.value     
+
 res$conf.int    
